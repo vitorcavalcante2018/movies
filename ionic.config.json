@@ -1,0 +1,8 @@
+{
+  "name": "Ionic4FirbaseEmailLogin",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
